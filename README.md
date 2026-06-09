@@ -40,8 +40,8 @@ Sales teams spend hours manually finding and qualifying leads. This project auto
 - Train classifier to predict conversion probability
 - Automate the entire pipeline
 
-## Team Member
-Rayan
+## Author
+Muhammad Usman
 
 ## Status
 ✅ 50 leads collected
